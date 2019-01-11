@@ -37,6 +37,7 @@ There is no time limit on this task and you are free to use whatever IDE's or to
 
 ### <a name="setupapp">Setting up the applicaion</a>
 * Navigate to the root of the application
+* Make sure the extension `extension=mbstring` is enabled in `php.ini`
 * Run the command `composer install` to install the dependancies
 
 ### <a name="runapp">Running the applicaion</a>
